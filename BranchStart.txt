@@ -1,1 +1,32 @@
- 
+BRANCH 
+
+O que são Branchs ? 
+O principal objetivo de uma branch é permitir que você e sua equipe trabalhem em novas funcionalidades ou correções de forma isolada, sem afetar o código principal e estável do projeto (que geralmente fica na branch main ou master).
+
+
+
+Primeiro passo seria a criação de Branchs 
+
+SCRIPT´S 
+
+git branch 
+    " Visualiza as Branch´s disponiveis "
+
+git branch <nome>
+    "Usada para '''CRIAR UMA NOVA BRANCH''' com o nome que especificar 
+
+DELETANDO BRANCH 
+
+-d ou --delete
+        " Geralmente se usa o DELETE quando a " Branch " foi criada errado " 
+
+git branch -d segunda-branch
+
+MUDANDO DE BRANCH 
+
+git checkout -b <nome> 
+
+    " Mudar para branch existente "
+
+git checkout nome da branch 
+
