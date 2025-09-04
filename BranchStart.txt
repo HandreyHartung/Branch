@@ -10,10 +10,10 @@ Primeiro passo seria a criação de Branchs
 SCRIPT´S 
 
 git branch 
-    " Visualiza as Branch´s disponiveis "
+        " Visualiza as Branch´s disponiveis "
 
 git branch <nome>
-    "Usada para '''CRIAR UMA NOVA BRANCH''' com o nome que especificar 
+        "Usada para '''CRIAR UMA NOVA BRANCH''' com o nome que especificar 
 
 DELETANDO BRANCH 
 
@@ -26,7 +26,7 @@ MUDANDO DE BRANCH
 
 git checkout -b <nome> 
 
-    " Mudar para branch existente "
+        " Mudar para branch existente "
 
 git checkout nome da branch 
 
