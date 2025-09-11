@@ -30,3 +30,8 @@ git checkout -b <nome>
 
 git checkout nome da branch 
 
+UNIFICAÇÃO DAS BRANCH´S 
+
+O comando para realizar essa unificação de Branch´s seria 
+
+git merge <NomeDaBranch> 
